@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\OrdenacaoInterna\bin\Debug\net9.0\OrdenacaoInterna.exe
+C:\Users\User\Desktop\OrdenacaoInterna\bin\Debug\net9.0\OrdenacaoInterna.deps.json
+C:\Users\User\Desktop\OrdenacaoInterna\bin\Debug\net9.0\OrdenacaoInterna.runtimeconfig.json
+C:\Users\User\Desktop\OrdenacaoInterna\bin\Debug\net9.0\OrdenacaoInterna.dll
+C:\Users\User\Desktop\OrdenacaoInterna\bin\Debug\net9.0\OrdenacaoInterna.pdb
+C:\Users\User\Desktop\OrdenacaoInterna\obj\Debug\net9.0\OrdenacaoInterna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\OrdenacaoInterna\obj\Debug\net9.0\OrdenacaoInterna.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\OrdenacaoInterna\obj\Debug\net9.0\OrdenacaoInterna.AssemblyInfo.cs
+C:\Users\User\Desktop\OrdenacaoInterna\obj\Debug\net9.0\OrdenacaoInterna.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OrdenacaoInterna\obj\Debug\net9.0\OrdenacaoInterna.dll
+C:\Users\User\Desktop\OrdenacaoInterna\obj\Debug\net9.0\refint\OrdenacaoInterna.dll
+C:\Users\User\Desktop\OrdenacaoInterna\obj\Debug\net9.0\OrdenacaoInterna.pdb
+C:\Users\User\Desktop\OrdenacaoInterna\obj\Debug\net9.0\OrdenacaoInterna.genruntimeconfig.cache
+C:\Users\User\Desktop\OrdenacaoInterna\obj\Debug\net9.0\ref\OrdenacaoInterna.dll
